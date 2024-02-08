@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32368907145",
+    "project_id": "videocompressor-1c947",
+    "storage_bucket": "videocompressor-1c947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32368907145:android:25df3b6c42a36340788758",
+        "android_client_info": {
+          "package_name": "com.example.videocompressor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gQBtY_jIvWoPo7K29zHzsue4fLhGYDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
